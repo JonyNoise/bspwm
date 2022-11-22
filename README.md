@@ -1,6 +1,6 @@
 # BSPWM | Polybar themes
 
-## 🌿 Information
+## 🌿 Информация
 
  
 
@@ -15,7 +15,7 @@
 
 
 
-## Very useful keybindigs to know...
+## Горячие клавиши...
 
 Смена темы === alt + @space
 Меню приложений === super + @space
@@ -73,7 +73,7 @@ cp -r misc/applications ~/.local/share/
 cp -r misc/asciiart ~/.local/share/
 fc-cache -rv
 
-# Ты можешь использовать свой конфиш zsh, для того чтобы применить мой, выполни следующее;
+# Ты можешь использовать свой конфиг zsh, для того чтобы применить мой, выполни следующее;
 cp -r home/.zshrc ~/.zshrc
 cp -r config/zsh ~/.config/zsh
 
@@ -83,7 +83,7 @@ if [ -d "$HOME/.local/bin" ] ;
 fi
 ```
 
-<b>4. Запуск сервисов</b>
+<b>4. Запуск сервиса плеера</b>
 ```sh
 # Ставим демон в автозагрузку и стартуем
 systemctl --user enable mpd.service
@@ -91,7 +91,7 @@ systemctl --user start mpd.service
 ```
 ## Дополнение
 
-* Wallpapers are in .webp image format, i added libwebp webp-pixbuf-loader packages for your filemanager (thunar in my case) have the capacity to show webp thumbnails.
+
 * Для того чтобы отключить рандомизацию обоев, закомментируй строку 194 и раскоменнтируй 195 в файле /home/YourUser/.config/bspwm/scripts/LaunchWorld file.
 * Левый клик по pacman в трее - обновление. Левый клик - показать обновления.
 
