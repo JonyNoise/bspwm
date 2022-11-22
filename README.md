@@ -17,7 +17,17 @@
 
 ## Горячие клавиши...
 
-|Смена темы| === |alt + @space|
+|Смена темы|[alt + @space](https://archlinux.org/)|
+|:---:|:---:|
+|Меню приложений|[super + @space](https://github.com/baskerville/bspwm)|
+|Скрыть/Показать трей|[super + h / super + u](https://github.com/polybar/polybar)|
+|Скриншот|[super + Print](https://github.com/davatorium/rofi)|
+|Прозрачность|[ctrl + alt {P,L,t}](https://github.com/Arian8j2/picom)|
+|Принудительно закрыть|[ctrl + super + alt + k](https://aur.archlinux.org/termite.git)|
+|Перезапустить bspwm|[super + alt + r](https://github.com/elkowar/eww)|
+
+|Смена темы|.|alt + @space|.
+|:---:|:---:|
 Меню приложений === super + @space
 Скрыть/Показать трей === super + h / super + u
 Скриншот === super + Print
