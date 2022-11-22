@@ -17,26 +17,15 @@
 
 ## Горячие клавиши...
 
-|Смена темы|[alt + @space](https://archlinux.org/)|
+|Смена темы|[alt + @space]|
 |:---:|:---:|
-|Меню приложений|[super + @space](https://github.com/baskerville/bspwm)|
-|Скрыть/Показать трей|[super + h / super + u](https://github.com/polybar/polybar)|
-|Скриншот|[super + Print](https://github.com/davatorium/rofi)|
-|Прозрачность|[ctrl + alt {P,L,t}](https://github.com/Arian8j2/picom)|
-|Принудительно закрыть|[ctrl + super + alt + k](https://aur.archlinux.org/termite.git)|
-|Перезапустить bspwm|[super + alt + r](https://github.com/elkowar/eww)|
+|Меню приложений|[super + @space]|
+|Скрыть/Показать трей|[super + h / super + u]|
+|Скриншот|[super + Print]|
+|Прозрачность|[ctrl + alt {P,L,t}]|
+|Принудительно закрыть|[ctrl + super + alt + k]|
+|Перезапустить bspwm|[super + alt + r]|
 
-|Смена темы|.|alt + @space|.
-|:---:|:---:|
-Меню приложений === super + @space
-Скрыть/Показать трей === super + h / super + u
-Скриншот === super + Print
-Прозрачность === ctrl + alt {P,L,t}
-Выключение/Перезагрузка === ctrl + super + alt + {p,r}
-Терминал === super + Return
-Принудительно закрыть === ctrl + super + alt + k
-Смена обоев === super + alt + w
-Перезапустить bspwm === super + alt + r
 
 
 Остальные комбинации клавиш можно посмотреть в файле sxhkdrc.
@@ -74,7 +63,7 @@ git clone --depth=1 https://github.com/JonyNoise/bspwm.git
 cd dotfiles
 cp -r config/bspwm ~/.config/bspwm
 cp -r config/termite ~/.config/termite
-# Those were the important ones. You still need to move the remaining directories in config to your ~/.config directory.
+
 
 # Переместе шрифты и требуемые скрипты
 cp -r misc/fonts/* ~/.local/share/fonts/
