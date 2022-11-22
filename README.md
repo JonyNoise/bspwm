@@ -88,8 +88,7 @@ cp -r home/.zshrc ~/.zshrc
 cp -r config/zsh ~/.config/zsh
 ```
 ____
-<b>4. Запуск сервиса плеера</b>
-# Ставим демон в автозагрузку и стартуем
+<b>4. # Запуск сервиса плеера</b>
 ```sh
 systemctl --user enable mpd.service
 systemctl --user start mpd.service
