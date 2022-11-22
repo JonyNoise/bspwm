@@ -1,0 +1,59 @@
+#!/usr/bin/env bash
+
+# Author 	 -  anix
+# Source 	 -  https://github.com/
+# Maintainer -  noise@noisefm.ru
+
+dir="$HOME/.config/bspwm"
+rofi_command="rofi -theme $HOME/.config/bspwm/scripts/RiceSelector.rasi"
+
+# Options
+theme0="󰔿 theme0"
+theme1="󰔿 theme1"
+theme2="󰔿 theme2"
+theme3="󰔿 theme3"
+theme4="󰔿 theme4"
+theme5="󰔿 theme5"
+theme6="󰔿 theme6"
+theme7="󰔿 theme7"
+
+
+options="$theme0\n$theme1\n$theme2\n$theme3\n$theme4\n$theme5\n$theme6\n$theme7\n"
+chosen="$(printf "$options" | $rofi_command -dmenu)"
+	case $chosen in
+
+			$theme0)
+				cat <<< "theme0" > $dir/rice.cfg
+				bspc wm -r
+				;;
+			$theme1)
+				cat <<< "theme1" > $dir/rice.cfg
+				bspc wm -r
+				;;
+			$theme2)
+				cat <<< "theme2" > $dir/rice.cfg
+				bspc wm -r
+				;;
+			$theme3)
+				cat <<< "theme3" > $dir/rice.cfg
+				bspc wm -r
+				;;
+			$theme4)
+				cat <<< "theme4" > $dir/rice.cfg
+				bspc wm -r
+				;;
+			$theme5)
+				cat <<< "theme5" > $dir/rice.cfg
+				bspc wm -r
+				;;
+			$theme6)
+				cat <<< "theme6" > $dir/rice.cfg
+				bspc wm -r
+				;;
+			$theme7)
+				cat <<< "theme7" > $dir/rice.cfg
+				bspc wm -r
+				;;
+
+		esac
+	
