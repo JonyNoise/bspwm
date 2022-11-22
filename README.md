@@ -1,8 +1,10 @@
 # BSPWM | Polybar themes
-
 ## 🌿 Информация
 
- 
+
+![22-ноября-22-134514](https://user-images.githubusercontent.com/88741448/203297813-869a92ac-fb3e-467c-856d-c63384598b28.png)
+
+
 
 |DIstro|[Arch](https://archlinux.org/)|
 |:---:|:---:|
