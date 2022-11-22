@@ -1,0 +1,855 @@
+/home/anix/.config/bspwm/scripts/LaunchWorld: строка 14: /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1: Нет такого файла или каталога
+bash: /home/anix/.config/bspwm/bspwm_colors.sh: Нет такого файла или каталога
+
+(process:929): GLib-CRITICAL **: 10:12:09.132: g_string_insert_len: assertion 'len == 0 || val != NULL' failed
+
+(process:1302): GLib-CRITICAL **: 10:13:40.093: g_string_insert_len: assertion 'len == 0 || val != NULL' failed
+xdg-settings: $BROWSER is set and can't be changed with xdg-settings
+Error in cpuinfo: failed to parse processor information from /proc/cpuinfo
+Error in cpuinfo: failed to parse processor information from /proc/cpuinfo
+Error in cpuinfo: failed to parse processor information from /proc/cpuinfo
+Error in cpuinfo: failed to parse processor information from /proc/cpuinfo
+[libprotobuf ERROR ../../third_party/protobuf/src/google/protobuf/message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+[libprotobuf ERROR ../../third_party/protobuf/src/google/protobuf/message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+Error in cpuinfo: failed to parse processor information from /proc/cpuinfo
+[1383:1383:1121/101805.471691:ERROR:shared_image_manager.cc(189)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+Error in cpuinfo: failed to parse processor information from /proc/cpuinfo
+[libprotobuf ERROR ../../third_party/protobuf/src/google/protobuf/message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+Error in cpuinfo: failed to parse processor information from /proc/cpuinfo
+[libprotobuf ERROR ../../third_party/protobuf/src/google/protobuf/message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+Error in cpuinfo: failed to parse processor information from /proc/cpuinfo
+[libprotobuf ERROR ../../third_party/protobuf/src/google/protobuf/message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+[libprotobuf ERROR ../../third_party/protobuf/src/google/protobuf/message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+[libprotobuf ERROR ../../third_party/protobuf/src/google/protobuf/message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+Error in cpuinfo: failed to parse processor information from /proc/cpuinfo
+Error in cpuinfo: failed to parse processor information from /proc/cpuinfo
+[libprotobuf ERROR ../../third_party/protobuf/src/google/protobuf/message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+Error in cpuinfo: failed to parse processor information from /proc/cpuinfo
+Error in cpuinfo: failed to parse processor information from /proc/cpuinfo
+Error in cpuinfo: failed to parse processor information from /proc/cpuinfo
+[1383:1383:1121/102455.241692:ERROR:shared_image_manager.cc(189)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+
+(process:2860): GLib-CRITICAL **: 10:25:06.305: g_string_insert_len: assertion 'len == 0 || val != NULL' failed
+xdg-settings: $BROWSER is set and can't be changed with xdg-settings
+Fontconfig error: Cannot load default config file: No such file: (null)
+
+(process:3555): GLib-CRITICAL **: 10:26:00.848: g_string_insert_len: assertion 'len == 0 || val != NULL' failed
+[libprotobuf ERROR ../../third_party/protobuf/src/google/protobuf/message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+[libprotobuf ERROR ../../third_party/protobuf/src/google/protobuf/message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+[libprotobuf ERROR ../../third_party/protobuf/src/google/protobuf/message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+[libprotobuf ERROR ../../third_party/protobuf/src/google/protobuf/message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+Error in cpuinfo: failed to parse processor information from /proc/cpuinfo
+Error in cpuinfo: failed to parse processor information from /proc/cpuinfo
+Error in cpuinfo: failed to parse processor information from /proc/cpuinfo
+[libprotobuf ERROR ../../third_party/protobuf/src/google/protobuf/message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+[libprotobuf ERROR ../../third_party/protobuf/src/google/protobuf/message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+[libprotobuf ERROR ../../third_party/protobuf/src/google/protobuf/message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+[libprotobuf ERROR ../../third_party/protobuf/src/google/protobuf/message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+[libprotobuf ERROR ../../third_party/protobuf/src/google/protobuf/message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+[libprotobuf ERROR ../../third_party/protobuf/src/google/protobuf/message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+[libprotobuf ERROR ../../third_party/protobuf/src/google/protobuf/message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+[libprotobuf ERROR ../../third_party/protobuf/src/google/protobuf/message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+
+(process:4520): GLib-CRITICAL **: 10:35:38.747: g_string_insert_len: assertion 'len == 0 || val != NULL' failed
+xdg-settings: $BROWSER is set and can't be changed with xdg-settings
+Error in cpuinfo: failed to parse processor information from /proc/cpuinfo
+Error in cpuinfo: failed to parse processor information from /proc/cpuinfo
+Error in cpuinfo: failed to parse processor information from /proc/cpuinfo
+Error in cpuinfo: failed to parse processor information from /proc/cpuinfo
+Error in cpuinfo: failed to parse processor information from /proc/cpuinfo
+Error in cpuinfo: failed to parse processor information from /proc/cpuinfo
+Error in cpuinfo: failed to parse processor information from /proc/cpuinfo
+Error in cpuinfo: failed to parse processor information from /proc/cpuinfo
+Error in cpuinfo: failed to parse processor information from /proc/cpuinfo
+[4564:7772:1121/114056.805250:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for dt.iki.fi failed:
+----- Certificate i=0 (CN=dt.iki.fi,O=Internet Widgits Pty Ltd,ST=Some-State,C=FI) -----
+ERROR: No matching issuer found
+
+
+[4607:4622:1121/114056.806625:ERROR:ssl_client_socket_impl.cc(982)] handshake failed; returned -1, SSL error code 1, net_error -202
+[libprotobuf ERROR ../../third_party/protobuf/src/google/protobuf/message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+Error in cpuinfo: failed to parse processor information from /proc/cpuinfo
+
+(process:9230): GLib-CRITICAL **: 12:02:45.411: g_string_insert_len: assertion 'len == 0 || val != NULL' failed
+ThunarThumbnailCache: failed to call Copy(): Время ожидания истекло
+ThunarThumbnailCache: failed to call Copy(): Время ожидания истекло
+polybar|error: Failed to query _XEMBED_INFO, removing client... (XCB_WINDOW (3))
+ThunarThumbnailCache: failed to call Copy(): Время ожидания истекло
+Error in cpuinfo: failed to parse processor information from /proc/cpuinfo
+Error in cpuinfo: failed to parse processor information from /proc/cpuinfo
+Error in cpuinfo: failed to parse processor information from /proc/cpuinfo
+[4564:11495:1121/124535.581245:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+ERROR: Couldn't read tbsCertificate as SEQUENCE
+ERROR: Failed parsing Certificate
+
+[4564:11495:1121/124535.813181:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for 2ip.ru failed:
+----- Certificate i=0 (CN=2ip.ru) -----
+ERROR: Time is after notAfter
+
+
+[4607:4622:1121/124535.814307:ERROR:ssl_client_socket_impl.cc(982)] handshake failed; returned -1, SSL error code 1, net_error -201
+Error in cpuinfo: failed to parse processor information from /proc/cpuinfo
+cat: /home/anix/.config/bspwm/rices/anix/termiterc: Нет такого файла или каталога
+feh WARNING: /home/anix/.config/bspwm/rices/anix/*.webp does not exist - skipping
+feh: No loadable images specified.
+See 'feh --help' or 'man feh' for detailed usage information
+/home/anix/.config/bspwm/scripts/LaunchWorld: строка 14: /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1: Нет такого файла или каталога
+[ 21.11.2022 12:53:50.226 parse_config_libconfig FATAL ERROR ] Failed to read configuration file "/home/anix/.config/bspwm/rices/anix/picom.conf".
+[ 21.11.2022 12:53:50.226 main FATAL ERROR ] Failed to create new session.
+bash: /home/anix/.config/bspwm/bspwm_colors.sh: Нет такого файла или каталога
+/home/anix/.config/bspwm/scripts/LaunchWorld: строка 14: /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1: Нет такого файла или каталога
+bash: /home/anix/.config/bspwm/bspwm_colors.sh: Нет такого файла или каталога
+/home/anix/.config/bspwm/scripts/LaunchWorld: строка 14: /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1: Нет такого файла или каталога
+bash: /home/anix/.config/bspwm/bspwm_colors.sh: Нет такого файла или каталога
+/home/anix/.config/bspwm/scripts/LaunchWorld: строка 14: /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1: Нет такого файла или каталога
+bash: /home/anix/.config/bspwm/bspwm_colors.sh: Нет такого файла или каталога
+/home/anix/.config/bspwm/scripts/LaunchWorld: строка 14: /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1: Нет такого файла или каталога
+bash: /home/anix/.config/bspwm/bspwm_colors.sh: Нет такого файла или каталога
+/home/anix/.config/bspwm/scripts/LaunchWorld: строка 14: /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1: Нет такого файла или каталога
+bash: /home/anix/.config/bspwm/bspwm_colors.sh: Нет такого файла или каталога
+/home/anix/.config/bspwm/scripts/LaunchWorld: строка 14: /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1: Нет такого файла или каталога
+bash: /home/anix/.config/bspwm/bspwm_colors.sh: Нет такого файла или каталога
+/home/anix/.config/bspwm/scripts/LaunchWorld: строка 14: /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1: Нет такого файла или каталога
+bash: /home/anix/.config/bspwm/bspwm_colors.sh: Нет такого файла или каталога
+/home/anix/.config/bspwm/scripts/LaunchWorld: строка 14: /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1: Нет такого файла или каталога
+bash: /home/anix/.config/bspwm/bspwm_colors.sh: Нет такого файла или каталога
+/home/anix/.config/bspwm/scripts/LaunchWorld: строка 14: /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1: Нет такого файла или каталога
+bash: /home/anix/.config/bspwm/bspwm_colors.sh: Нет такого файла или каталога
+/home/anix/.config/bspwm/scripts/LaunchWorld: строка 14: /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1: Нет такого файла или каталога
+bash: /home/anix/.config/bspwm/bspwm_colors.sh: Нет такого файла или каталога
+/home/anix/.config/bspwm/scripts/LaunchWorld: строка 14: /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1: Нет такого файла или каталога
+bash: /home/anix/.config/bspwm/bspwm_colors.sh: Нет такого файла или каталога
+/home/anix/.config/bspwm/scripts/LaunchWorld: строка 14: /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1: Нет такого файла или каталога
+bash: /home/anix/.config/bspwm/bspwm_colors.sh: Нет такого файла или каталога
+/home/anix/.config/bspwm/scripts/LaunchWorld: строка 14: /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1: Нет такого файла или каталога
+bash: /home/anix/.config/bspwm/bspwm_colors.sh: Нет такого файла или каталога
+/home/anix/.config/bspwm/scripts/LaunchWorld: строка 14: /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1: Нет такого файла или каталога
+bash: /home/anix/.config/bspwm/bspwm_colors.sh: Нет такого файла или каталога
+cat: /home/anix/.config/bspwm/rices/anix/termiterc: Нет такого файла или каталога
+feh WARNING: /home/anix/.config/bspwm/rices/anix/*.webp does not exist - skipping
+feh: No loadable images specified.
+See 'feh --help' or 'man feh' for detailed usage information
+/home/anix/.config/bspwm/scripts/LaunchWorld: строка 14: /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1: Нет такого файла или каталога
+[ 21.11.2022 12:57:00.559 parse_config_libconfig FATAL ERROR ] Failed to read configuration file "/home/anix/.config/bspwm/rices/anix/picom.conf".
+[ 21.11.2022 12:57:00.560 main FATAL ERROR ] Failed to create new session.
+bash: /home/anix/.config/bspwm/bspwm_colors.sh: Нет такого файла или каталога
+/home/anix/.config/bspwm/scripts/LaunchWorld: строка 14: /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1: Нет такого файла или каталога
+bash: /home/anix/.config/bspwm/bspwm_colors.sh: Нет такого файла или каталога
+/home/anix/.config/bspwm/scripts/LaunchWorld: строка 14: /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1: Нет такого файла или каталога
+bash: /home/anix/.config/bspwm/bspwm_colors.sh: Нет такого файла или каталога
+/home/anix/.config/bspwm/scripts/LaunchWorld: строка 14: /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1: Нет такого файла или каталога
+bash: /home/anix/.config/bspwm/bspwm_colors.sh: Нет такого файла или каталога
+/home/anix/.config/bspwm/scripts/LaunchWorld: строка 14: /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1: Нет такого файла или каталога
+bash: /home/anix/.config/bspwm/bspwm_colors.sh: Нет такого файла или каталога
+/home/anix/.config/bspwm/scripts/LaunchWorld: строка 14: /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1: Нет такого файла или каталога
+bash: /home/anix/.config/bspwm/bspwm_colors.sh: Нет такого файла или каталога
+/home/anix/.config/bspwm/scripts/LaunchWorld: строка 14: /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1: Нет такого файла или каталога
+bash: /home/anix/.config/bspwm/bspwm_colors.sh: Нет такого файла или каталога
+/home/anix/.config/bspwm/scripts/LaunchWorld: строка 14: /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1: Нет такого файла или каталога
+bash: /home/anix/.config/bspwm/bspwm_colors.sh: Нет такого файла или каталога
+/home/anix/.config/bspwm/scripts/LaunchWorld: строка 14: /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1: Нет такого файла или каталога
+bash: /home/anix/.config/bspwm/bspwm_colors.sh: Нет такого файла или каталога
+/home/anix/.config/bspwm/scripts/LaunchWorld: строка 14: /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1: Нет такого файла или каталога
+bash: /home/anix/.config/bspwm/bspwm_colors.sh: Нет такого файла или каталога
+/home/anix/.config/bspwm/scripts/LaunchWorld: строка 14: /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1: Нет такого файла или каталога
+bash: /home/anix/.config/bspwm/bspwm_colors.sh: Нет такого файла или каталога
+/home/anix/.config/bspwm/scripts/LaunchWorld: строка 14: /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1: Нет такого файла или каталога
+bash: /home/anix/.config/bspwm/bspwm_colors.sh: Нет такого файла или каталога
+/home/anix/.config/bspwm/scripts/LaunchWorld: строка 14: /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1: Нет такого файла или каталога
+bash: /home/anix/.config/bspwm/bspwm_colors.sh: Нет такого файла или каталога
+/home/anix/.config/bspwm/scripts/LaunchWorld: строка 14: /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1: Нет такого файла или каталога
+bash: /home/anix/.config/bspwm/bspwm_colors.sh: Нет такого файла или каталога
+/home/anix/.config/bspwm/scripts/LaunchWorld: строка 14: /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1: Нет такого файла или каталога
+bash: /home/anix/.config/bspwm/bspwm_colors.sh: Нет такого файла или каталога
+/home/anix/.config/bspwm/scripts/LaunchWorld: строка 14: /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1: Нет такого файла или каталога
+bash: /home/anix/.config/bspwm/bspwm_colors.sh: Нет такого файла или каталога
+/home/anix/.config/bspwm/scripts/LaunchWorld: строка 14: /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1: Нет такого файла или каталога
+bash: /home/anix/.config/bspwm/bspwm_colors.sh: Нет такого файла или каталога
+/home/anix/.config/bspwm/scripts/LaunchWorld: строка 14: /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1: Нет такого файла или каталога
+bash: /home/anix/.config/bspwm/bspwm_colors.sh: Нет такого файла или каталога
+ 2022-11-21T10:05:09.100Z WARN  eww > Failed to connect to daemon: Failed to connect to daemon
+ 2022-11-21T10:05:09.100Z INFO  eww > Initializing eww server. (/run/user/1000/eww-server_b4542bef6744c7f2)
+ 2022-11-21T10:05:09.102Z INFO  eww::server > Loading paths: config-dir: /home/anix/.config/bspwm/rices/andrea/arin, ipc-socket: /run/user/1000/eww-server_b4542bef6744c7f2, log-file: /home/anix/.cache/eww_b4542bef6744c7f2.log
+ 2022-11-21T10:05:09.250Z INFO  eww::app    > Opening window search
+ 2022-11-21T10:05:09.250Z INFO  eww::ipc_server > IPC server initialized
+ 2022-11-21T10:05:09.277Z INFO  eww::app        > Opening window apps
+ 2022-11-21T10:05:09.286Z INFO  eww::app        > Opening window weather
+ 2022-11-21T10:05:09.296Z INFO  eww::app        > Opening window music
+ 2022-11-21T10:05:09.327Z INFO  eww::app        > Opening window system
+ 2022-11-21T10:05:18.678Z INFO  eww::server     > Shutting down eww daemon...
+ 2022-11-21T10:05:18.678Z INFO  eww::app        > Received kill command, stopping server!
+ 2022-11-21T10:05:18.678Z INFO  eww::app        > Closing gtk window apps
+ 2022-11-21T10:05:18.678Z INFO  eww::app        > Closing gtk window search
+ 2022-11-21T10:05:18.678Z INFO  eww::app        > Closing gtk window system
+ 2022-11-21T10:05:18.678Z INFO  eww::app        > Closing gtk window weather
+ 2022-11-21T10:05:18.678Z INFO  eww::app        > Closing gtk window music
+ 2022-11-21T10:05:18.679Z INFO  eww::server     > main application thread finished
+/home/anix/.config/bspwm/scripts/LaunchWorld: строка 14: /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1: Нет такого файла или каталога
+bash: /home/anix/.config/bspwm/bspwm_colors.sh: Нет такого файла или каталога
+/home/anix/.config/bspwm/scripts/LaunchWorld: строка 14: /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1: Нет такого файла или каталога
+bash: /home/anix/.config/bspwm/bspwm_colors.sh: Нет такого файла или каталога
+/home/anix/.config/bspwm/scripts/LaunchWorld: строка 14: /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1: Нет такого файла или каталога
+bash: /home/anix/.config/bspwm/bspwm_colors.sh: Нет такого файла или каталога
+/home/anix/.config/bspwm/scripts/LaunchWorld: строка 14: /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1: Нет такого файла или каталога
+polybar|error: Disabling module "date" (reason: locale::facet::_S_create_c_locale name not valid)
+polybar|error: module/memory_bar: locale::facet::_S_create_c_locale name not valid
+polybar|error: Failed to get contents for "module/filesystem" (err: locale::facet::_S_create_c_locale name not valid)
+bash: /home/anix/.config/bspwm/bspwm_colors.sh: Нет такого файла или каталога
+polybar|error: Failed to get contents for "module/filesystem" (err: locale::facet::_S_create_c_locale name not valid)
+polybar|error: Failed to get contents for "module/filesystem" (err: locale::facet::_S_create_c_locale name not valid)
+polybar|error: Failed to get contents for "module/filesystem" (err: locale::facet::_S_create_c_locale name not valid)
+polybar|error: Failed to get contents for "module/filesystem" (err: locale::facet::_S_create_c_locale name not valid)
+polybar|error: Failed to get contents for "module/filesystem" (err: locale::facet::_S_create_c_locale name not valid)
+polybar|error: Failed to get contents for "module/filesystem" (err: locale::facet::_S_create_c_locale name not valid)
+polybar|error: Failed to get contents for "module/filesystem" (err: locale::facet::_S_create_c_locale name not valid)
+polybar|error: Failed to get contents for "module/filesystem" (err: locale::facet::_S_create_c_locale name not valid)
+polybar|error: Failed to get contents for "module/filesystem" (err: locale::facet::_S_create_c_locale name not valid)
+polybar|error: Failed to get contents for "module/filesystem" (err: locale::facet::_S_create_c_locale name not valid)
+polybar|error: Failed to get contents for "module/filesystem" (err: locale::facet::_S_create_c_locale name not valid)
+polybar|error: Failed to get contents for "module/filesystem" (err: locale::facet::_S_create_c_locale name not valid)
+polybar|error: Failed to get contents for "module/filesystem" (err: locale::facet::_S_create_c_locale name not valid)
+polybar|error: Failed to get contents for "module/filesystem" (err: locale::facet::_S_create_c_locale name not valid)
+polybar|error: Failed to get contents for "module/filesystem" (err: locale::facet::_S_create_c_locale name not valid)
+polybar|error: Failed to get contents for "module/filesystem" (err: locale::facet::_S_create_c_locale name not valid)
+/home/anix/.config/bspwm/scripts/LaunchWorld: строка 14: /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1: Нет такого файла или каталога
+polybar|error: module/memory_bar: locale::facet::_S_create_c_locale name not valid
+polybar|error: Failed to get contents for "module/filesystem" (err: locale::facet::_S_create_c_locale name not valid)
+bash: /home/anix/.config/bspwm/bspwm_colors.sh: Нет такого файла или каталога
+polybar|error: Failed to get contents for "module/filesystem" (err: locale::facet::_S_create_c_locale name not valid)
+polybar|error: Failed to get contents for "module/filesystem" (err: locale::facet::_S_create_c_locale name not valid)
+polybar|error: Failed to get contents for "module/filesystem" (err: locale::facet::_S_create_c_locale name not valid)
+polybar|error: Failed to get contents for "module/filesystem" (err: locale::facet::_S_create_c_locale name not valid)
+polybar|error: Failed to get contents for "module/filesystem" (err: locale::facet::_S_create_c_locale name not valid)
+polybar|error: Failed to get contents for "module/filesystem" (err: locale::facet::_S_create_c_locale name not valid)
+polybar|error: Failed to get contents for "module/filesystem" (err: locale::facet::_S_create_c_locale name not valid)
+polybar|error: Failed to get contents for "module/filesystem" (err: locale::facet::_S_create_c_locale name not valid)
+polybar|error: Failed to get contents for "module/filesystem" (err: locale::facet::_S_create_c_locale name not valid)
+polybar|error: Failed to get contents for "module/filesystem" (err: locale::facet::_S_create_c_locale name not valid)
+polybar|error: Failed to get contents for "module/filesystem" (err: locale::facet::_S_create_c_locale name not valid)
+polybar|error: Failed to get contents for "module/filesystem" (err: locale::facet::_S_create_c_locale name not valid)
+polybar|error: Failed to get contents for "module/filesystem" (err: locale::facet::_S_create_c_locale name not valid)
+/home/anix/.config/bspwm/scripts/LaunchWorld: строка 14: /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1: Нет такого файла или каталога
+bash: /home/anix/.config/bspwm/bspwm_colors.sh: Нет такого файла или каталога
+/home/anix/.config/bspwm/scripts/LaunchWorld: строка 14: /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1: Нет такого файла или каталога
+bash: /home/anix/.config/bspwm/bspwm_colors.sh: Нет такого файла или каталога
+ 2022-11-21T10:06:34.823Z WARN  eww > Failed to connect to daemon: Failed to connect to daemon
+ 2022-11-21T10:06:34.823Z INFO  eww > Initializing eww server. (/run/user/1000/eww-server_7abae0ccfacc53d4)
+ 2022-11-21T10:06:34.823Z INFO  eww::server > Loading paths: config-dir: /home/anix/.config/bspwm/rices/karla/bar, ipc-socket: /run/user/1000/eww-server_7abae0ccfacc53d4, log-file: /home/anix/.cache/eww_7abae0ccfacc53d4.log
+ 2022-11-21T10:06:34.986Z INFO  eww::ipc_server > IPC server initialized
+ 2022-11-21T10:06:34.994Z INFO  eww::app        > Opening window bar
+[0m[1m[38;5;9merror[0m[1m: Failed to turn `` into a value of type f64[0m
+   [0m[34m┌─[0m /home/anix/.config/bspwm/rices/karla/bar/eww.yuck:59:24
+   [0m[34m│[0m
+[0m[34m59[0m [0m[34m│[0m                 :value [0m[31mdisk_used[0m
+   [0m[34m│[0m                        [0m[31m─────────[0m [0m[31m`` is not of type `f64`[0m
+   [0m[34m│[0m
+   [0m[34m→[0m cannot parse float from empty string
+
+
+[0m[1m[38;5;9merror[0m[1m: Failed to turn `` into a value of type f64[0m
+   [0m[34m┌─[0m /home/anix/.config/bspwm/rices/karla/bar/eww.yuck:58:22
+   [0m[34m│[0m
+[0m[34m58[0m [0m[34m│[0m                 :max [0m[31mdisk_all[0m
+   [0m[34m│[0m                      [0m[31m────────[0m [0m[31m`` is not of type `f64`[0m
+   [0m[34m│[0m
+   [0m[34m→[0m cannot parse float from empty string
+
+
+[0m[1m[38;5;9merror[0m[1m: Failed to turn `` into a value of type f64[0m
+    [0m[34m┌─[0m /home/anix/.config/bspwm/rices/karla/bar/eww.yuck:106:24
+    [0m[34m│[0m
+[0m[34m106[0m [0m[34m│[0m                 :value [0m[31mram_used[0m
+    [0m[34m│[0m                        [0m[31m────────[0m [0m[31m`` is not of type `f64`[0m
+    [0m[34m│[0m
+    [0m[34m→[0m cannot parse float from empty string
+
+
+[0m[1m[38;5;9merror[0m[1m: Failed to turn `` into a value of type f64[0m
+    [0m[34m┌─[0m /home/anix/.config/bspwm/rices/karla/bar/eww.yuck:105:22
+    [0m[34m│[0m
+[0m[34m105[0m [0m[34m│[0m                 :max [0m[31mram_all[0m
+    [0m[34m│[0m                      [0m[31m───────[0m [0m[31m`` is not of type `f64`[0m
+    [0m[34m│[0m
+    [0m[34m→[0m cannot parse float from empty string
+
+
+bspc: процесс не найден
+/home/anix/.config/bspwm/scripts/LaunchWorld: строка 14: /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1: Нет такого файла или каталога
+bash: /home/anix/.config/bspwm/bspwm_colors.sh: Нет такого файла или каталога
+ 2022-11-21T10:06:47.947Z WARN  eww > Failed to connect to daemon: Failed to connect to daemon
+ 2022-11-21T10:06:47.947Z INFO  eww > Initializing eww server. (/run/user/1000/eww-server_843656a1f1a86727)
+ 2022-11-21T10:06:47.947Z INFO  eww::server > Loading paths: config-dir: /home/anix/.config/bspwm/rices/z0mbi3/bar, ipc-socket: /run/user/1000/eww-server_843656a1f1a86727, log-file: /home/anix/.cache/eww_843656a1f1a86727.log
+ 2022-11-21T10:06:48.093Z INFO  eww::app    > Opening window bar
+ 2022-11-21T10:06:48.093Z INFO  eww::ipc_server > IPC server initialized
+[0m[1m[38;5;9merror[0m[1m: Failed to turn `` into a value of type f64[0m
+    [0m[34m┌─[0m /home/anix/.config/bspwm/rices/z0mbi3/bar/eww.yuck:108:13
+    [0m[34m│[0m
+[0m[34m108[0m [0m[34m│[0m               :value [0m[31mvolume_value[0m
+    [0m[34m│[0m                      [0m[31m────────────[0m [0m[31m`` is not of type `f64`[0m
+    [0m[34m│[0m
+    [0m[34m→[0m cannot parse float from empty string
+
+
+[0m[1m[38;5;9merror[0m[1m: Failed to turn `` into a value of type f64[0m
+    [0m[34m┌─[0m /home/anix/.config/bspwm/rices/z0mbi3/bar/eww.yuck:108:13
+    [0m[34m│[0m
+[0m[34m108[0m [0m[34m│[0m               :value [0m[31mvolume_value[0m
+    [0m[34m│[0m                      [0m[31m────────────[0m [0m[31m`` is not of type `f64`[0m
+    [0m[34m│[0m
+    [0m[34m→[0m cannot parse float from empty string
+
+
+[0m[1m[38;5;9merror[0m[1m: Failed to turn `` into a value of type f64[0m
+    [0m[34m┌─[0m /home/anix/.config/bspwm/rices/z0mbi3/bar/eww.yuck:108:13
+    [0m[34m│[0m
+[0m[34m108[0m [0m[34m│[0m               :value [0m[31mvolume_value[0m
+    [0m[34m│[0m                      [0m[31m────────────[0m [0m[31m`` is not of type `f64`[0m
+    [0m[34m│[0m
+    [0m[34m→[0m cannot parse float from empty string
+
+
+[0m[1m[38;5;9merror[0m[1m: Failed to turn `` into a value of type f64[0m
+    [0m[34m┌─[0m /home/anix/.config/bspwm/rices/z0mbi3/bar/eww.yuck:108:13
+    [0m[34m│[0m
+[0m[34m108[0m [0m[34m│[0m               :value [0m[31mvolume_value[0m
+    [0m[34m│[0m                      [0m[31m────────────[0m [0m[31m`` is not of type `f64`[0m
+    [0m[34m│[0m
+    [0m[34m→[0m cannot parse float from empty string
+
+
+[0m[1m[38;5;9merror[0m[1m: Failed to turn `` into a value of type f64[0m
+    [0m[34m┌─[0m /home/anix/.config/bspwm/rices/z0mbi3/bar/eww.yuck:108:13
+    [0m[34m│[0m
+[0m[34m108[0m [0m[34m│[0m               :value [0m[31mvolume_value[0m
+    [0m[34m│[0m                      [0m[31m────────────[0m [0m[31m`` is not of type `f64`[0m
+    [0m[34m│[0m
+    [0m[34m→[0m cannot parse float from empty string
+
+
+ 2022-11-21T10:06:52.078Z INFO  eww::server     > Shutting down eww daemon...
+ 2022-11-21T10:06:52.079Z INFO  eww::app        > Received kill command, stopping server!
+ 2022-11-21T10:06:52.079Z INFO  eww::app        > Closing gtk window bar
+ 2022-11-21T10:06:52.086Z INFO  eww::server     > main application thread finished
+/home/anix/.config/bspwm/scripts/LaunchWorld: строка 14: /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1: Нет такого файла или каталога
+bash: /home/anix/.config/bspwm/bspwm_colors.sh: Нет такого файла или каталога
+cat: /home/anix/.config/bspwm/rices/aline/termiterc: Нет такого файла или каталога
+feh WARNING: /home/anix/.config/bspwm/rices/aline/*.webp does not exist - skipping
+feh: No loadable images specified.
+See 'feh --help' or 'man feh' for detailed usage information
+polybar|error: Uncaught exception, shutting down: Failed to open config file /home/anix/.config/bspwm/rices/aline/polybar/config.ini: No such file or directory
+/home/anix/.config/bspwm/scripts/LaunchWorld: строка 14: /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1: Нет такого файла или каталога
+[ 21.11.2022 13:08:11.548 parse_config_libconfig FATAL ERROR ] Failed to read configuration file "/home/anix/.config/bspwm/rices/aline/picom.conf".
+[ 21.11.2022 13:08:11.548 main FATAL ERROR ] Failed to create new session.
+bash: /home/anix/.config/bspwm/bspwm_colors.sh: Нет такого файла или каталога
+cat: /home/anix/.config/bspwm/rices/aline/termiterc: Нет такого файла или каталога
+feh WARNING: /home/anix/.config/bspwm/rices/aline/*.webp does not exist - skipping
+feh: No loadable images specified.
+See 'feh --help' or 'man feh' for detailed usage information
+polybar|error: Uncaught exception, shutting down: Failed to open config file /home/anix/.config/bspwm/rices/aline/polybar/config.ini: No such file or directory
+/home/anix/.config/bspwm/scripts/LaunchWorld: строка 14: /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1: Нет такого файла или каталога
+[ 21.11.2022 13:08:23.961 parse_config_libconfig FATAL ERROR ] Failed to read configuration file "/home/anix/.config/bspwm/rices/aline/picom.conf".
+[ 21.11.2022 13:08:23.961 main FATAL ERROR ] Failed to create new session.
+bash: /home/anix/.config/bspwm/bspwm_colors.sh: Нет такого файла или каталога
+cat: /home/anix/.config/bspwm/rices/aline/termiterc: Нет такого файла или каталога
+feh WARNING: /home/anix/.config/bspwm/rices/aline/*.webp does not exist - skipping
+feh: No loadable images specified.
+See 'feh --help' or 'man feh' for detailed usage information
+/home/anix/.config/bspwm/scripts/LaunchWorld: строка 14: /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1: Нет такого файла или каталога
+polybar|error: Uncaught exception, shutting down: Failed to open config file /home/anix/.config/bspwm/rices/aline/polybar/config.ini: No such file or directory
+[ 21.11.2022 13:09:22.008 parse_config_libconfig FATAL ERROR ] Failed to read configuration file "/home/anix/.config/bspwm/rices/aline/picom.conf".
+[ 21.11.2022 13:09:22.009 main FATAL ERROR ] Failed to create new session.
+bash: /home/anix/.config/bspwm/bspwm_colors.sh: Нет такого файла или каталога
+cat: /home/anix/.config/bspwm/rices/aline/termiterc: Нет такого файла или каталога
+/home/anix/.config/bspwm/scripts/LaunchWorld: строка 14: /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1: Нет такого файла или каталога
+feh WARNING: /home/anix/.config/bspwm/rices/aline/*.webp does not exist - skipping
+feh: No loadable images specified.
+See 'feh --help' or 'man feh' for detailed usage information
+polybar|error: Uncaught exception, shutting down: Failed to open config file /home/anix/.config/bspwm/rices/aline/polybar/config.ini: No such file or directory
+[ 21.11.2022 13:09:24.888 parse_config_libconfig FATAL ERROR ] Failed to read configuration file "/home/anix/.config/bspwm/rices/aline/picom.conf".
+[ 21.11.2022 13:09:24.906 main FATAL ERROR ] Failed to create new session.
+bash: /home/anix/.config/bspwm/bspwm_colors.sh: Нет такого файла или каталога
+cat: /home/anix/.config/bspwm/rices/aline/termiterc: Нет такого файла или каталога
+feh WARNING: /home/anix/.config/bspwm/rices/aline/*.webp does not exist - skipping
+feh: No loadable images specified.
+See 'feh --help' or 'man feh' for detailed usage information
+/home/anix/.config/bspwm/scripts/LaunchWorld: строка 14: /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1: Нет такого файла или каталога
+polybar|error: Uncaught exception, shutting down: Failed to open config file /home/anix/.config/bspwm/rices/aline/polybar/config.ini: No such file or directory
+[ 21.11.2022 13:09:25.537 parse_config_libconfig FATAL ERROR ] Failed to read configuration file "/home/anix/.config/bspwm/rices/aline/picom.conf".
+[ 21.11.2022 13:09:25.538 main FATAL ERROR ] Failed to create new session.
+bash: /home/anix/.config/bspwm/bspwm_colors.sh: Нет такого файла или каталога
+cat: /home/anix/.config/bspwm/rices/aline/termiterc: Нет такого файла или каталога
+/home/anix/.config/bspwm/scripts/LaunchWorld: строка 14: /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1: Нет такого файла или каталога
+feh WARNING: /home/anix/.config/bspwm/rices/aline/*.webp does not exist - skipping
+feh: No loadable images specified.
+See 'feh --help' or 'man feh' for detailed usage information
+polybar|error: Uncaught exception, shutting down: Failed to open config file /home/anix/.config/bspwm/rices/aline/polybar/config.ini: No such file or directory
+[ 21.11.2022 13:09:26.323 parse_config_libconfig FATAL ERROR ] Failed to read configuration file "/home/anix/.config/bspwm/rices/aline/picom.conf".
+[ 21.11.2022 13:09:26.324 main FATAL ERROR ] Failed to create new session.
+bash: /home/anix/.config/bspwm/bspwm_colors.sh: Нет такого файла или каталога
+/home/anix/.config/bspwm/scripts/LaunchWorld: строка 14: /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1: Нет такого файла или каталога
+bash: /home/anix/.config/bspwm/bspwm_colors.sh: Нет такого файла или каталога
+/home/anix/.config/bspwm/scripts/LaunchWorld: строка 14: /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1: Нет такого файла или каталога
+bash: /home/anix/.config/bspwm/bspwm_colors.sh: Нет такого файла или каталога
+/home/anix/.config/bspwm/scripts/LaunchWorld: строка 14: /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1: Нет такого файла или каталога
+bash: /home/anix/.config/bspwm/bspwm_colors.sh: Нет такого файла или каталога
+/home/anix/.config/bspwm/scripts/LaunchWorld: строка 14: /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1: Нет такого файла или каталога
+bash: /home/anix/.config/bspwm/bspwm_colors.sh: Нет такого файла или каталога
+polybar|error: Failed to query _XEMBED_INFO, removing client... (XCB_WINDOW (3))
+polybar|error: Failed to query _XEMBED_INFO, removing client... (XCB_WINDOW (3))
+polybar|error: Failed to query _XEMBED_INFO, removing client... (XCB_WINDOW (3))
+polybar|error: Failed to query _XEMBED_INFO, removing client... (XCB_WINDOW (3))
+polybar|error: Failed to query _XEMBED_INFO, removing client... (XCB_WINDOW (3))
+polybar|error: Failed to query _XEMBED_INFO, removing client... (XCB_WINDOW (3))
+polybar|error: Failed to query _XEMBED_INFO, removing client... (XCB_WINDOW (3))
+polybar|error: Failed to query _XEMBED_INFO, removing client... (XCB_WINDOW (3))
+polybar|error: Failed to query _XEMBED_INFO, removing client... (XCB_WINDOW (3))
+polybar|error: Failed to query _XEMBED_INFO, removing client... (XCB_WINDOW (3))
+Error in cpuinfo: failed to parse processor information from /proc/cpuinfo
+[libprotobuf ERROR ../../third_party/protobuf/src/google/protobuf/message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+[libprotobuf ERROR ../../third_party/protobuf/src/google/protobuf/message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+[libprotobuf ERROR ../../third_party/protobuf/src/google/protobuf/message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+[libprotobuf ERROR ../../third_party/protobuf/src/google/protobuf/message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+[libprotobuf ERROR ../../third_party/protobuf/src/google/protobuf/message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+[libprotobuf ERROR ../../third_party/protobuf/src/google/protobuf/message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+[libprotobuf ERROR ../../third_party/protobuf/src/google/protobuf/message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+Error in cpuinfo: failed to parse processor information from /proc/cpuinfo
+[libprotobuf ERROR ../../third_party/protobuf/src/google/protobuf/message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+
+(process:20493): GLib-CRITICAL **: 13:27:31.092: g_string_insert_len: assertion 'len == 0 || val != NULL' failed
+Error in cpuinfo: failed to parse processor information from /proc/cpuinfo
+Error in cpuinfo: failed to parse processor information from /proc/cpuinfo
+[libprotobuf ERROR ../../third_party/protobuf/src/google/protobuf/message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+[libprotobuf ERROR ../../third_party/protobuf/src/google/protobuf/message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+[libprotobuf ERROR ../../third_party/protobuf/src/google/protobuf/message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+[libprotobuf ERROR ../../third_party/protobuf/src/google/protobuf/message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+[libprotobuf ERROR ../../third_party/protobuf/src/google/protobuf/message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+[libprotobuf ERROR ../../third_party/protobuf/src/google/protobuf/message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+[libprotobuf ERROR ../../third_party/protobuf/src/google/protobuf/message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+/home/anix/.config/bspwm/scripts/LaunchWorld: строка 14: /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1: Нет такого файла или каталога
+bash: /home/anix/.config/bspwm/bspwm_colors.sh: Нет такого файла или каталога
+/home/anix/.config/bspwm/scripts/LaunchWorld: строка 14: /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1: Нет такого файла или каталога
+bash: /home/anix/.config/bspwm/bspwm_colors.sh: Нет такого файла или каталога
+/home/anix/.config/bspwm/scripts/LaunchWorld: строка 14: /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1: Нет такого файла или каталога
+bash: /home/anix/.config/bspwm/bspwm_colors.sh: Нет такого файла или каталога
+/home/anix/.config/bspwm/scripts/LaunchWorld: строка 14: /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1: Нет такого файла или каталога
+bash: /home/anix/.config/bspwm/bspwm_colors.sh: Нет такого файла или каталога
+/home/anix/.config/bspwm/scripts/LaunchWorld: строка 14: /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1: Нет такого файла или каталога
+bash: /home/anix/.config/bspwm/bspwm_colors.sh: Нет такого файла или каталога
+/home/anix/.config/bspwm/scripts/LaunchWorld: строка 14: /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1: Нет такого файла или каталога
+bash: /home/anix/.config/bspwm/bspwm_colors.sh: Нет такого файла или каталога
+/home/anix/.config/bspwm/scripts/LaunchWorld: строка 14: /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1: Нет такого файла или каталога
+bash: /home/anix/.config/bspwm/bspwm_colors.sh: Нет такого файла или каталога
+/home/anix/.config/bspwm/scripts/LaunchWorld: строка 14: /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1: Нет такого файла или каталога
+bash: /home/anix/.config/bspwm/bspwm_colors.sh: Нет такого файла или каталога
+/home/anix/.config/bspwm/scripts/LaunchWorld: строка 14: /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1: Нет такого файла или каталога
+bash: /home/anix/.config/bspwm/bspwm_colors.sh: Нет такого файла или каталога
+/home/anix/.config/bspwm/scripts/LaunchWorld: строка 14: /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1: Нет такого файла или каталога
+bash: /home/anix/.config/bspwm/bspwm_colors.sh: Нет такого файла или каталога
+/home/anix/.config/bspwm/scripts/LaunchWorld: строка 14: /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1: Нет такого файла или каталога
+bash: /home/anix/.config/bspwm/bspwm_colors.sh: Нет такого файла или каталога
+/home/anix/.config/bspwm/scripts/LaunchWorld: строка 14: /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1: Нет такого файла или каталога
+bash: /home/anix/.config/bspwm/bspwm_colors.sh: Нет такого файла или каталога
+/home/anix/.config/bspwm/scripts/LaunchWorld: строка 14: /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1: Нет такого файла или каталога
+bash: /home/anix/.config/bspwm/bspwm_colors.sh: Нет такого файла или каталога
+/home/anix/.config/bspwm/scripts/LaunchWorld: строка 14: /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1: Нет такого файла или каталога
+bash: /home/anix/.config/bspwm/bspwm_colors.sh: Нет такого файла или каталога
+/home/anix/.config/bspwm/scripts/LaunchWorld: строка 14: /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1: Нет такого файла или каталога
+bash: /home/anix/.config/bspwm/bspwm_colors.sh: Нет такого файла или каталога
+/home/anix/.config/bspwm/scripts/LaunchWorld: строка 14: /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1: Нет такого файла или каталога
+bash: /home/anix/.config/bspwm/bspwm_colors.sh: Нет такого файла или каталога
+/home/anix/.config/bspwm/scripts/LaunchWorld: строка 14: /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1: Нет такого файла или каталога
+bash: /home/anix/.config/bspwm/bspwm_colors.sh: Нет такого файла или каталога
+/home/anix/.config/bspwm/scripts/LaunchWorld: строка 14: /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1: Нет такого файла или каталога
+bash: /home/anix/.config/bspwm/bspwm_colors.sh: Нет такого файла или каталога
+
+(thunar:9268): GLib-GObject-CRITICAL **: 13:43:07.973: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+/home/anix/.config/bspwm/scripts/LaunchWorld: строка 14: /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1: Нет такого файла или каталога
+bash: /home/anix/.config/bspwm/bspwm_colors.sh: Нет такого файла или каталога
+/home/anix/.config/bspwm/scripts/LaunchWorld: строка 14: /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1: Нет такого файла или каталога
+bash: /home/anix/.config/bspwm/bspwm_colors.sh: Нет такого файла или каталога
+
+(process:22699): GLib-CRITICAL **: 13:44:06.193: g_string_insert_len: assertion 'len == 0 || val != NULL' failed
+/home/anix/.config/bspwm/scripts/LaunchWorld: строка 14: /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1: Нет такого файла или каталога
+bash: /home/anix/.config/bspwm/bspwm_colors.sh: Нет такого файла или каталога
+/home/anix/.config/bspwm/scripts/LaunchWorld: строка 14: /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1: Нет такого файла или каталога
+bash: /home/anix/.config/bspwm/bspwm_colors.sh: Нет такого файла или каталога
+/home/anix/.config/bspwm/scripts/LaunchWorld: строка 14: /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1: Нет такого файла или каталога
+bash: /home/anix/.config/bspwm/bspwm_colors.sh: Нет такого файла или каталога
+/home/anix/.config/bspwm/scripts/LaunchWorld: строка 14: /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1: Нет такого файла или каталога
+bash: /home/anix/.config/bspwm/bspwm_colors.sh: Нет такого файла или каталога
+/home/anix/.config/bspwm/scripts/LaunchWorld: строка 14: /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1: Нет такого файла или каталога
+bash: /home/anix/.config/bspwm/bspwm_colors.sh: Нет такого файла или каталога
+/home/anix/.config/bspwm/scripts/LaunchWorld: строка 12: /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1: Нет такого файла или каталога
+polybar|error: Uncaught exception, shutting down: Undefined bar: emi-bar. Available bars: cristina-bar
+bash: /home/anix/.config/bspwm/bspwm_colors.sh: Нет такого файла или каталога
+/home/anix/.config/bspwm/scripts/LaunchWorld: строка 12: /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1: Нет такого файла или каталога
+bash: /home/anix/.config/bspwm/bspwm_colors.sh: Нет такого файла или каталога
+/home/anix/.config/bspwm/scripts/LaunchWorld: строка 12: /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1: Нет такого файла или каталога
+bash: /home/anix/.config/bspwm/bspwm_colors.sh: Нет такого файла или каталога
+/home/anix/.config/bspwm/scripts/LaunchWorld: строка 12: /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1: Нет такого файла или каталога
+polybar|error: Uncaught exception, shutting down: Undefined bar: emi-bar. Available bars: cristina-bar
+bash: /home/anix/.config/bspwm/bspwm_colors.sh: Нет такого файла или каталога
+/home/anix/.config/bspwm/scripts/LaunchWorld: строка 12: /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1: Нет такого файла или каталога
+polybar|error: Uncaught exception, shutting down: Undefined bar: emi-bar. Available bars: cristina-bar
+bash: /home/anix/.config/bspwm/bspwm_colors.sh: Нет такого файла или каталога
+/home/anix/.config/bspwm/scripts/LaunchWorld: строка 12: /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1: Нет такого файла или каталога
+bash: /home/anix/.config/bspwm/bspwm_colors.sh: Нет такого файла или каталога
+/home/anix/.config/bspwm/scripts/LaunchWorld: строка 12: /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1: Нет такого файла или каталога
+bash: /home/anix/.config/bspwm/bspwm_colors.sh: Нет такого файла или каталога
+/home/anix/.config/bspwm/scripts/LaunchWorld: строка 12: /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1: Нет такого файла или каталога
+bash: /home/anix/.config/bspwm/bspwm_colors.sh: Нет такого файла или каталога
+/home/anix/.config/bspwm/scripts/LaunchWorld: строка 12: /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1: Нет такого файла или каталога
+polybar|error: Uncaught exception, shutting down: Undefined bar: emi-bar. Available bars: pam1, pam2, pam3, pam4, pam5, pam6
+bash: /home/anix/.config/bspwm/bspwm_colors.sh: Нет такого файла или каталога
+/home/anix/.config/bspwm/scripts/LaunchWorld: строка 12: /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1: Нет такого файла или каталога
+bash: /home/anix/.config/bspwm/bspwm_colors.sh: Нет такого файла или каталога
+/home/anix/.config/bspwm/scripts/LaunchWorld: строка 12: /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1: Нет такого файла или каталога
+polybar|error: Uncaught exception, shutting down: Undefined bar: emi-bar. Available bars: cata-bar
+bash: /home/anix/.config/bspwm/bspwm_colors.sh: Нет такого файла или каталога
+/home/anix/.config/bspwm/scripts/LaunchWorld: строка 12: /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1: Нет такого файла или каталога
+polybar|error: Uncaught exception, shutting down: Undefined bar: emi-bar. Available bars: cristina-bar
+bash: /home/anix/.config/bspwm/bspwm_colors.sh: Нет такого файла или каталога
+/home/anix/.config/bspwm/scripts/LaunchWorld: строка 12: /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1: Нет такого файла или каталога
+bash: /home/anix/.config/bspwm/bspwm_colors.sh: Нет такого файла или каталога
+/home/anix/.config/bspwm/scripts/LaunchWorld: строка 12: /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1: Нет такого файла или каталога
+bash: /home/anix/.config/bspwm/bspwm_colors.sh: Нет такого файла или каталога
+/home/anix/.config/bspwm/scripts/LaunchWorld: строка 12: /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1: Нет такого файла или каталога
+bash: /home/anix/.config/bspwm/bspwm_colors.sh: Нет такого файла или каталога
+/home/anix/.config/bspwm/scripts/LaunchWorld: строка 12: /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1: Нет такого файла или каталога
+polybar|error: Uncaught exception, shutting down: Undefined bar: isa-bar. Available bars: cata-bar
+bash: /home/anix/.config/bspwm/bspwm_colors.sh: Нет такого файла или каталога
+/home/anix/.config/bspwm/scripts/LaunchWorld: строка 12: /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1: Нет такого файла или каталога
+polybar|error: Uncaught exception, shutting down: Undefined bar: isa-bar. Available bars: pam1, pam2, pam3, pam4, pam5, pam6
+bash: /home/anix/.config/bspwm/bspwm_colors.sh: Нет такого файла или каталога
+/home/anix/.config/bspwm/scripts/LaunchWorld: строка 12: /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1: Нет такого файла или каталога
+polybar|error: Uncaught exception, shutting down: Undefined bar: isa-bar. Available bars: mel-bar, mel2-bar
+bash: /home/anix/.config/bspwm/bspwm_colors.sh: Нет такого файла или каталога
+/home/anix/.config/bspwm/scripts/LaunchWorld: строка 12: /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1: Нет такого файла или каталога
+bash: /home/anix/.config/bspwm/bspwm_colors.sh: Нет такого файла или каталога
+polybar|error: Uncaught exception, shutting down: Undefined bar: isa-bar. Available bars: emi-bar
+/home/anix/.config/bspwm/scripts/LaunchWorld: строка 12: /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1: Нет такого файла или каталога
+bash: /home/anix/.config/bspwm/bspwm_colors.sh: Нет такого файла или каталога
+/home/anix/.config/bspwm/scripts/LaunchWorld: строка 12: /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1: Нет такого файла или каталога
+polybar|error: Uncaught exception, shutting down: Undefined bar: isa-bar. Available bars: cyn-bar
+bash: /home/anix/.config/bspwm/bspwm_colors.sh: Нет такого файла или каталога
+/home/anix/.config/bspwm/scripts/LaunchWorld: строка 12: /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1: Нет такого файла или каталога
+bash: /home/anix/.config/bspwm/bspwm_colors.sh: Нет такого файла или каталога
+/home/anix/.config/bspwm/scripts/LaunchWorld: строка 12: /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1: Нет такого файла или каталога
+polybar|error: Uncaught exception, shutting down: Undefined bar: emi-bar. Available bars: mel-bar, mel2-bar
+bash: /home/anix/.config/bspwm/bspwm_colors.sh: Нет такого файла или каталога
+/home/anix/.config/bspwm/scripts/LaunchWorld: строка 12: /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1: Нет такого файла или каталога
+bash: /home/anix/.config/bspwm/bspwm_colors.sh: Нет такого файла или каталога
+/home/anix/.config/bspwm/scripts/LaunchWorld: строка 12: /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1: Нет такого файла или каталога
+polybar|error: Uncaught exception, shutting down: Undefined bar: cyn-bar. Available bars: cristina-bar
+bash: /home/anix/.config/bspwm/bspwm_colors.sh: Нет такого файла или каталога
+/home/anix/.config/bspwm/scripts/LaunchWorld: строка 12: /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1: Нет такого файла или каталога
+polybar|error: Uncaught exception, shutting down: Undefined bar: cyn-bar. Available bars: cata-bar
+bash: /home/anix/.config/bspwm/bspwm_colors.sh: Нет такого файла или каталога
+/home/anix/.config/bspwm/scripts/LaunchWorld: строка 12: /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1: Нет такого файла или каталога
+polybar|error: Uncaught exception, shutting down: Undefined bar: cyn-bar. Available bars: pam1, pam2, pam3, pam4, pam5, pam6
+bash: /home/anix/.config/bspwm/bspwm_colors.sh: Нет такого файла или каталога
+polybar|error: Uncaught exception, shutting down: Undefined bar: cyn-bar. Available bars: mel-bar, mel2-bar
+/home/anix/.config/bspwm/scripts/LaunchWorld: строка 12: /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1: Нет такого файла или каталога
+bash: /home/anix/.config/bspwm/bspwm_colors.sh: Нет такого файла или каталога
+/home/anix/.config/bspwm/scripts/LaunchWorld: строка 12: /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1: Нет такого файла или каталога
+bash: /home/anix/.config/bspwm/bspwm_colors.sh: Нет такого файла или каталога
+/home/anix/.config/bspwm/scripts/LaunchWorld: строка 12: /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1: Нет такого файла или каталога
+polybar|error: Uncaught exception, shutting down: Undefined bar: cata-bar. Available bars: cristina-bar
+bash: /home/anix/.config/bspwm/bspwm_colors.sh: Нет такого файла или каталога
+/home/anix/.config/bspwm/scripts/LaunchWorld: строка 12: /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1: Нет такого файла или каталога
+bash: /home/anix/.config/bspwm/bspwm_colors.sh: Нет такого файла или каталога
+polybar|error: Uncaught exception, shutting down: Undefined bar: mel2-bar. Available bars: pam1, pam2, pam3, pam4, pam5, pam6
+polybar|error: Uncaught exception, shutting down: Undefined bar: mel-bar. Available bars: pam1, pam2, pam3, pam4, pam5, pam6
+/home/anix/.config/bspwm/scripts/LaunchWorld: строка 12: /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1: Нет такого файла или каталога
+bash: /home/anix/.config/bspwm/bspwm_colors.sh: Нет такого файла или каталога
+/home/anix/.config/bspwm/scripts/LaunchWorld: строка 12: /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1: Нет такого файла или каталога
+polybar|error: Disabling module "date" (reason: locale::facet::_S_create_c_locale name not valid)
+polybar|error: module/memory_bar: locale::facet::_S_create_c_locale name not valid
+polybar|error: Failed to get contents for "module/filesystem" (err: locale::facet::_S_create_c_locale name not valid)
+bash: /home/anix/.config/bspwm/bspwm_colors.sh: Нет такого файла или каталога
+polybar|error: Failed to get contents for "module/filesystem" (err: locale::facet::_S_create_c_locale name not valid)
+polybar|error: Failed to get contents for "module/filesystem" (err: locale::facet::_S_create_c_locale name not valid)
+polybar|error: Failed to get contents for "module/filesystem" (err: locale::facet::_S_create_c_locale name not valid)
+polybar|error: Failed to get contents for "module/filesystem" (err: locale::facet::_S_create_c_locale name not valid)
+polybar|error: Failed to get contents for "module/filesystem" (err: locale::facet::_S_create_c_locale name not valid)
+polybar|error: Failed to get contents for "module/filesystem" (err: locale::facet::_S_create_c_locale name not valid)
+polybar|error: Failed to get contents for "module/filesystem" (err: locale::facet::_S_create_c_locale name not valid)
+polybar|error: Failed to get contents for "module/filesystem" (err: locale::facet::_S_create_c_locale name not valid)
+polybar|error: Failed to get contents for "module/filesystem" (err: locale::facet::_S_create_c_locale name not valid)
+polybar|error: Failed to get contents for "module/filesystem" (err: locale::facet::_S_create_c_locale name not valid)
+polybar|error: Failed to get contents for "module/filesystem" (err: locale::facet::_S_create_c_locale name not valid)
+polybar|error: Failed to get contents for "module/filesystem" (err: locale::facet::_S_create_c_locale name not valid)
+polybar|error: Failed to get contents for "module/filesystem" (err: locale::facet::_S_create_c_locale name not valid)
+polybar|error: Failed to get contents for "module/filesystem" (err: locale::facet::_S_create_c_locale name not valid)
+polybar|error: Failed to get contents for "module/filesystem" (err: locale::facet::_S_create_c_locale name not valid)
+polybar|error: Failed to get contents for "module/filesystem" (err: locale::facet::_S_create_c_locale name not valid)
+polybar|error: Failed to get contents for "module/filesystem" (err: locale::facet::_S_create_c_locale name not valid)
+polybar|error: Failed to get contents for "module/filesystem" (err: locale::facet::_S_create_c_locale name not valid)
+polybar|error: Failed to get contents for "module/filesystem" (err: locale::facet::_S_create_c_locale name not valid)
+polybar|error: Failed to get contents for "module/filesystem" (err: locale::facet::_S_create_c_locale name not valid)
+polybar|error: Failed to get contents for "module/filesystem" (err: locale::facet::_S_create_c_locale name not valid)
+polybar|error: Failed to get contents for "module/filesystem" (err: locale::facet::_S_create_c_locale name not valid)
+polybar|error: Uncaught exception, shutting down: Undefined bar: pam4. Available bars: cristina-bar
+/home/anix/.config/bspwm/scripts/LaunchWorld: строка 12: /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1: Нет такого файла или каталога
+polybar|error: Uncaught exception, shutting down: Undefined bar: pam6. Available bars: cristina-bar
+polybar|error: Uncaught exception, shutting down: Undefined bar: pam1. Available bars: cristina-bar
+polybar|error: Uncaught exception, shutting down: Undefined bar: pam5. Available bars: cristina-bar
+polybar|error: Uncaught exception, shutting down: Undefined bar: pam3. Available bars: cristina-bar
+polybar|error: Uncaught exception, shutting down: Undefined bar: pam2. Available bars: cristina-bar
+bash: /home/anix/.config/bspwm/bspwm_colors.sh: Нет такого файла или каталога
+/home/anix/.config/bspwm/scripts/LaunchWorld: строка 12: /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1: Нет такого файла или каталога
+bash: /home/anix/.config/bspwm/bspwm_colors.sh: Нет такого файла или каталога
+/home/anix/.config/bspwm/scripts/LaunchWorld: строка 12: /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1: Нет такого файла или каталога
+bash: /home/anix/.config/bspwm/bspwm_colors.sh: Нет такого файла или каталога
+/home/anix/.config/bspwm/scripts/LaunchWorld: строка 12: /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1: Нет такого файла или каталога
+bash: /home/anix/.config/bspwm/bspwm_colors.sh: Нет такого файла или каталога
+/home/anix/.config/bspwm/scripts/LaunchWorld: строка 12: /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1: Нет такого файла или каталога
+bash: /home/anix/.config/bspwm/bspwm_colors.sh: Нет такого файла или каталога
+/home/anix/.config/bspwm/scripts/LaunchWorld: строка 12: /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1: Нет такого файла или каталога
+bash: /home/anix/.config/bspwm/bspwm_colors.sh: Нет такого файла или каталога
+/home/anix/.config/bspwm/scripts/LaunchWorld: строка 12: /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1: Нет такого файла или каталога
+bash: /home/anix/.config/bspwm/bspwm_colors.sh: Нет такого файла или каталога
+/home/anix/.config/bspwm/scripts/LaunchWorld: строка 12: /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1: Нет такого файла или каталога
+bash: /home/anix/.config/bspwm/bspwm_colors.sh: Нет такого файла или каталога
+/home/anix/.config/bspwm/scripts/LaunchWorld: строка 12: /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1: Нет такого файла или каталога
+bash: /home/anix/.config/bspwm/bspwm_colors.sh: Нет такого файла или каталога
+/home/anix/.config/bspwm/scripts/LaunchWorld: строка 12: /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1: Нет такого файла или каталога
+polybar|error: Disabling module "date" (reason: locale::facet::_S_create_c_locale name not valid)
+polybar|error: module/memory_bar: locale::facet::_S_create_c_locale name not valid
+polybar|error: Failed to get contents for "module/filesystem" (err: locale::facet::_S_create_c_locale name not valid)
+bash: /home/anix/.config/bspwm/bspwm_colors.sh: Нет такого файла или каталога
+polybar|error: Failed to get contents for "module/filesystem" (err: locale::facet::_S_create_c_locale name not valid)
+polybar|error: Failed to get contents for "module/filesystem" (err: locale::facet::_S_create_c_locale name not valid)
+polybar|error: Failed to get contents for "module/filesystem" (err: locale::facet::_S_create_c_locale name not valid)
+polybar|error: Failed to get contents for "module/filesystem" (err: locale::facet::_S_create_c_locale name not valid)
+polybar|error: Failed to get contents for "module/filesystem" (err: locale::facet::_S_create_c_locale name not valid)
+polybar|error: Failed to get contents for "module/filesystem" (err: locale::facet::_S_create_c_locale name not valid)
+polybar|error: Failed to get contents for "module/filesystem" (err: locale::facet::_S_create_c_locale name not valid)
+polybar|error: Failed to get contents for "module/filesystem" (err: locale::facet::_S_create_c_locale name not valid)
+polybar|error: Failed to get contents for "module/filesystem" (err: locale::facet::_S_create_c_locale name not valid)
+polybar|error: Failed to get contents for "module/filesystem" (err: locale::facet::_S_create_c_locale name not valid)
+polybar|error: Failed to get contents for "module/filesystem" (err: locale::facet::_S_create_c_locale name not valid)
+polybar|error: Failed to get contents for "module/filesystem" (err: locale::facet::_S_create_c_locale name not valid)
+polybar|error: Failed to get contents for "module/filesystem" (err: locale::facet::_S_create_c_locale name not valid)
+polybar|error: Failed to get contents for "module/filesystem" (err: locale::facet::_S_create_c_locale name not valid)
+polybar|error: Failed to get contents for "module/filesystem" (err: locale::facet::_S_create_c_locale name not valid)
+polybar|error: Failed to get contents for "module/filesystem" (err: locale::facet::_S_create_c_locale name not valid)
+polybar|error: Failed to get contents for "module/filesystem" (err: locale::facet::_S_create_c_locale name not valid)
+polybar|error: Failed to get contents for "module/filesystem" (err: locale::facet::_S_create_c_locale name not valid)
+polybar|error: Failed to get contents for "module/filesystem" (err: locale::facet::_S_create_c_locale name not valid)
+polybar|error: Failed to get contents for "module/filesystem" (err: locale::facet::_S_create_c_locale name not valid)
+polybar|error: Failed to get contents for "module/filesystem" (err: locale::facet::_S_create_c_locale name not valid)
+polybar|error: Failed to get contents for "module/filesystem" (err: locale::facet::_S_create_c_locale name not valid)
+polybar|error: Failed to get contents for "module/filesystem" (err: locale::facet::_S_create_c_locale name not valid)
+polybar|error: Failed to get contents for "module/filesystem" (err: locale::facet::_S_create_c_locale name not valid)
+polybar|error: Failed to get contents for "module/filesystem" (err: locale::facet::_S_create_c_locale name not valid)
+polybar|error: Failed to get contents for "module/filesystem" (err: locale::facet::_S_create_c_locale name not valid)
+polybar|error: Failed to get contents for "module/filesystem" (err: locale::facet::_S_create_c_locale name not valid)
+polybar|error: Failed to get contents for "module/filesystem" (err: locale::facet::_S_create_c_locale name not valid)
+polybar|error: Failed to get contents for "module/filesystem" (err: locale::facet::_S_create_c_locale name not valid)
+polybar|error: Failed to get contents for "module/filesystem" (err: locale::facet::_S_create_c_locale name not valid)
+polybar|error: Failed to get contents for "module/filesystem" (err: locale::facet::_S_create_c_locale name not valid)
+polybar|error: Failed to get contents for "module/filesystem" (err: locale::facet::_S_create_c_locale name not valid)
+polybar|error: Failed to get contents for "module/filesystem" (err: locale::facet::_S_create_c_locale name not valid)
+polybar|error: Failed to get contents for "module/filesystem" (err: locale::facet::_S_create_c_locale name not valid)
+polybar|error: Failed to get contents for "module/filesystem" (err: locale::facet::_S_create_c_locale name not valid)
+polybar|error: Failed to get contents for "module/filesystem" (err: locale::facet::_S_create_c_locale name not valid)
+polybar|error: Failed to get contents for "module/filesystem" (err: locale::facet::_S_create_c_locale name not valid)
+polybar|error: Failed to get contents for "module/filesystem" (err: locale::facet::_S_create_c_locale name not valid)
+polybar|error: Failed to get contents for "module/filesystem" (err: locale::facet::_S_create_c_locale name not valid)
+polybar|error: Failed to get contents for "module/filesystem" (err: locale::facet::_S_create_c_locale name not valid)
+polybar|error: Failed to get contents for "module/filesystem" (err: locale::facet::_S_create_c_locale name not valid)
+polybar|error: Failed to get contents for "module/filesystem" (err: locale::facet::_S_create_c_locale name not valid)
+polybar|error: Failed to get contents for "module/filesystem" (err: locale::facet::_S_create_c_locale name not valid)
+polybar|error: Failed to get contents for "module/filesystem" (err: locale::facet::_S_create_c_locale name not valid)
+polybar|error: Failed to get contents for "module/filesystem" (err: locale::facet::_S_create_c_locale name not valid)
+polybar|error: Failed to get contents for "module/filesystem" (err: locale::facet::_S_create_c_locale name not valid)
+polybar|error: Failed to get contents for "module/filesystem" (err: locale::facet::_S_create_c_locale name not valid)
+polybar|error: Failed to get contents for "module/filesystem" (err: locale::facet::_S_create_c_locale name not valid)
+polybar|error: Failed to get contents for "module/filesystem" (err: locale::facet::_S_create_c_locale name not valid)
+polybar|error: Failed to get contents for "module/filesystem" (err: locale::facet::_S_create_c_locale name not valid)
+polybar|error: Failed to get contents for "module/filesystem" (err: locale::facet::_S_create_c_locale name not valid)
+polybar|error: Failed to get contents for "module/filesystem" (err: locale::facet::_S_create_c_locale name not valid)
+polybar|error: Failed to get contents for "module/filesystem" (err: locale::facet::_S_create_c_locale name not valid)
+polybar|error: Failed to get contents for "module/filesystem" (err: locale::facet::_S_create_c_locale name not valid)
+polybar|error: Failed to get contents for "module/filesystem" (err: locale::facet::_S_create_c_locale name not valid)
+polybar|error: Failed to get contents for "module/filesystem" (err: locale::facet::_S_create_c_locale name not valid)
+polybar|error: Failed to get contents for "module/filesystem" (err: locale::facet::_S_create_c_locale name not valid)
+polybar|error: Failed to get contents for "module/filesystem" (err: locale::facet::_S_create_c_locale name not valid)
+polybar|error: Failed to get contents for "module/filesystem" (err: locale::facet::_S_create_c_locale name not valid)
+polybar|error: Failed to get contents for "module/filesystem" (err: locale::facet::_S_create_c_locale name not valid)
+polybar|error: Failed to get contents for "module/filesystem" (err: locale::facet::_S_create_c_locale name not valid)
+/home/anix/.config/bspwm/scripts/LaunchWorld: строка 12: /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1: Нет такого файла или каталога
+bash: /home/anix/.config/bspwm/bspwm_colors.sh: Нет такого файла или каталога
+/home/anix/.config/bspwm/scripts/LaunchWorld: строка 12: /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1: Нет такого файла или каталога
+bash: /home/anix/.config/bspwm/bspwm_colors.sh: Нет такого файла или каталога
+/home/anix/.config/bspwm/bspwmrc: строка 30: SetGirlFriendRice: команда не найдена
+/home/anix/.config/bspwm/scripts/LaunchWorld: строка 12: /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1: Нет такого файла или каталога
+bash: /home/anix/.config/bspwm/bspwm_colors.sh: Нет такого файла или каталога
+/home/anix/.config/bspwm/bspwmrc: строка 30: SetGirlFriendRice: команда не найдена
+/home/anix/.config/bspwm/scripts/LaunchWorld: строка 12: /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1: Нет такого файла или каталога
+bash: /home/anix/.config/bspwm/bspwm_colors.sh: Нет такого файла или каталога
+/home/anix/.config/bspwm/bspwmrc: строка 30: SetGirlFriendRice: команда не найдена
+/home/anix/.config/bspwm/scripts/LaunchWorld: строка 12: /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1: Нет такого файла или каталога
+bash: /home/anix/.config/bspwm/bspwm_colors.sh: Нет такого файла или каталога
+
+(thunar:22771): thunar-WARNING **: 14:03:16.240: Content type loading failed for .goutputstream-UO1VV1: Ошибка при получении информации о файле «/home/anix/.config/bspwm/scripts/.goutputstream-UO1VV1»: Нет такого файла или каталога
+/home/anix/.config/bspwm/scripts/LaunchWorld: строка 12: /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1: Нет такого файла или каталога
+bash: /home/anix/.config/bspwm/bspwm_colors.sh: Нет такого файла или каталога
+/home/anix/.config/bspwm/scripts/LaunchWorld: строка 12: /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1: Нет такого файла или каталога
+bash: /home/anix/.config/bspwm/bspwm_colors.sh: Нет такого файла или каталога
+/home/anix/.config/bspwm/scripts/LaunchWorld: строка 12: /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1: Нет такого файла или каталога
+bash: /home/anix/.config/bspwm/bspwm_colors.sh: Нет такого файла или каталога
+/home/anix/.config/bspwm/scripts/LaunchWorld: строка 12: /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1: Нет такого файла или каталога
+polybar|error: Disabling module "date" (reason: locale::facet::_S_create_c_locale name not valid)
+polybar|error: module/memory_bar: locale::facet::_S_create_c_locale name not valid
+polybar|error: Failed to get contents for "module/filesystem" (err: locale::facet::_S_create_c_locale name not valid)
+bash: /home/anix/.config/bspwm/bspwm_colors.sh: Нет такого файла или каталога
+polybar|error: Failed to get contents for "module/filesystem" (err: locale::facet::_S_create_c_locale name not valid)
+polybar|error: Failed to get contents for "module/filesystem" (err: locale::facet::_S_create_c_locale name not valid)
+polybar|error: Failed to get contents for "module/filesystem" (err: locale::facet::_S_create_c_locale name not valid)
+polybar|error: Failed to get contents for "module/filesystem" (err: locale::facet::_S_create_c_locale name not valid)
+polybar|error: Failed to get contents for "module/filesystem" (err: locale::facet::_S_create_c_locale name not valid)
+polybar|error: Failed to get contents for "module/filesystem" (err: locale::facet::_S_create_c_locale name not valid)
+polybar|error: Failed to get contents for "module/filesystem" (err: locale::facet::_S_create_c_locale name not valid)
+/home/anix/.config/bspwm/scripts/LaunchWorld: строка 12: /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1: Нет такого файла или каталога
+polybar|error: Failed to get contents for "module/filesystem" (err: locale::facet::_S_create_c_locale name not valid)
+bash: /home/anix/.config/bspwm/bspwm_colors.sh: Нет такого файла или каталога
+polybar|error: Failed to get contents for "module/filesystem" (err: locale::facet::_S_create_c_locale name not valid)
+polybar|error: Failed to get contents for "module/filesystem" (err: locale::facet::_S_create_c_locale name not valid)
+polybar|error: Failed to get contents for "module/filesystem" (err: locale::facet::_S_create_c_locale name not valid)
+polybar|error: Failed to get contents for "module/filesystem" (err: locale::facet::_S_create_c_locale name not valid)
+polybar|error: Failed to get contents for "module/filesystem" (err: locale::facet::_S_create_c_locale name not valid)
+polybar|error: Failed to get contents for "module/filesystem" (err: locale::facet::_S_create_c_locale name not valid)
+/home/anix/.config/bspwm/scripts/LaunchWorld: строка 12: /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1: Нет такого файла или каталога
+bash: /home/anix/.config/bspwm/bspwm_colors.sh: Нет такого файла или каталога
+polybar|error: Uncaught exception, shutting down: Undefined bar: cyn-bar. Available bars: pam1, pam2, pam3, pam4, pam5, pam6
+/home/anix/.config/bspwm/scripts/LaunchWorld: строка 12: /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1: Нет такого файла или каталога
+bash: /home/anix/.config/bspwm/bspwm_colors.sh: Нет такого файла или каталога
+/home/anix/.config/bspwm/scripts/LaunchWorld: строка 12: /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1: Нет такого файла или каталога
+polybar|error: module/memory_bar: locale::facet::_S_create_c_locale name not valid
+polybar|error: Failed to get contents for "module/filesystem" (err: locale::facet::_S_create_c_locale name not valid)
+bash: /home/anix/.config/bspwm/bspwm_colors.sh: Нет такого файла или каталога
+polybar|error: Failed to get contents for "module/filesystem" (err: locale::facet::_S_create_c_locale name not valid)
+polybar|error: Failed to get contents for "module/filesystem" (err: locale::facet::_S_create_c_locale name not valid)
+polybar|error: Failed to get contents for "module/filesystem" (err: locale::facet::_S_create_c_locale name not valid)
+polybar|error: Failed to get contents for "module/filesystem" (err: locale::facet::_S_create_c_locale name not valid)
+polybar|error: Failed to get contents for "module/filesystem" (err: locale::facet::_S_create_c_locale name not valid)
+polybar|error: Failed to get contents for "module/filesystem" (err: locale::facet::_S_create_c_locale name not valid)
+polybar|error: Failed to get contents for "module/filesystem" (err: locale::facet::_S_create_c_locale name not valid)
+polybar|error: Failed to get contents for "module/filesystem" (err: locale::facet::_S_create_c_locale name not valid)
+polybar|error: Failed to get contents for "module/filesystem" (err: locale::facet::_S_create_c_locale name not valid)
+polybar|error: Failed to get contents for "module/filesystem" (err: locale::facet::_S_create_c_locale name not valid)
+polybar|error: Failed to get contents for "module/filesystem" (err: locale::facet::_S_create_c_locale name not valid)
+polybar|error: Failed to get contents for "module/filesystem" (err: locale::facet::_S_create_c_locale name not valid)
+polybar|error: Failed to get contents for "module/filesystem" (err: locale::facet::_S_create_c_locale name not valid)
+polybar|error: Failed to get contents for "module/filesystem" (err: locale::facet::_S_create_c_locale name not valid)
+polybar|error: Failed to get contents for "module/filesystem" (err: locale::facet::_S_create_c_locale name not valid)
+polybar|error: Failed to get contents for "module/filesystem" (err: locale::facet::_S_create_c_locale name not valid)
+polybar|error: Failed to get contents for "module/filesystem" (err: locale::facet::_S_create_c_locale name not valid)
+polybar|error: Failed to get contents for "module/filesystem" (err: locale::facet::_S_create_c_locale name not valid)
+polybar|error: Failed to get contents for "module/filesystem" (err: locale::facet::_S_create_c_locale name not valid)
+polybar|error: Failed to get contents for "module/filesystem" (err: locale::facet::_S_create_c_locale name not valid)
+polybar|error: Failed to get contents for "module/filesystem" (err: locale::facet::_S_create_c_locale name not valid)
+polybar|error: Failed to get contents for "module/filesystem" (err: locale::facet::_S_create_c_locale name not valid)
+polybar|error: Failed to get contents for "module/filesystem" (err: locale::facet::_S_create_c_locale name not valid)
+/home/anix/.config/bspwm/scripts/LaunchWorld: строка 12: /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1: Нет такого файла или каталога
+bash: /home/anix/.config/bspwm/bspwm_colors.sh: Нет такого файла или каталога
+/home/anix/.config/bspwm/scripts/LaunchWorld: строка 12: /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1: Нет такого файла или каталога
+bash: /home/anix/.config/bspwm/bspwm_colors.sh: Нет такого файла или каталога
+/home/anix/.config/bspwm/scripts/LaunchWorld: строка 12: /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1: Нет такого файла или каталога
+bash: /home/anix/.config/bspwm/bspwm_colors.sh: Нет такого файла или каталога
+/home/anix/.config/bspwm/scripts/LaunchWorld: строка 12: /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1: Нет такого файла или каталога
+bash: /home/anix/.config/bspwm/bspwm_colors.sh: Нет такого файла или каталога
+/home/anix/.config/bspwm/scripts/LaunchWorld: строка 12: /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1: Нет такого файла или каталога
+polybar|error: Disabling module "date" (reason: locale::facet::_S_create_c_locale name not valid)
+polybar|error: module/memory_bar: locale::facet::_S_create_c_locale name not valid
+polybar|error: Failed to get contents for "module/filesystem" (err: locale::facet::_S_create_c_locale name not valid)
+polybar|error: Failed to get contents for "module/filesystem" (err: locale::facet::_S_create_c_locale name not valid)
+bash: /home/anix/.config/bspwm/bspwm_colors.sh: Нет такого файла или каталога
+polybar|error: Failed to get contents for "module/filesystem" (err: locale::facet::_S_create_c_locale name not valid)
+polybar|error: Failed to get contents for "module/filesystem" (err: locale::facet::_S_create_c_locale name not valid)
+polybar|error: Failed to get contents for "module/filesystem" (err: locale::facet::_S_create_c_locale name not valid)
+polybar|error: Failed to get contents for "module/filesystem" (err: locale::facet::_S_create_c_locale name not valid)
+polybar|error: Failed to get contents for "module/filesystem" (err: locale::facet::_S_create_c_locale name not valid)
+polybar|error: Failed to get contents for "module/filesystem" (err: locale::facet::_S_create_c_locale name not valid)
+/home/anix/.config/bspwm/scripts/LaunchWorld: строка 12: /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1: Нет такого файла или каталога
+polybar|error: module/memory_bar: locale::facet::_S_create_c_locale name not valid
+polybar|error: Failed to get contents for "module/filesystem" (err: locale::facet::_S_create_c_locale name not valid)
+bash: /home/anix/.config/bspwm/bspwm_colors.sh: Нет такого файла или каталога
+polybar|error: Failed to get contents for "module/filesystem" (err: locale::facet::_S_create_c_locale name not valid)
+polybar|error: Failed to get contents for "module/filesystem" (err: locale::facet::_S_create_c_locale name not valid)
+polybar|error: Failed to get contents for "module/filesystem" (err: locale::facet::_S_create_c_locale name not valid)
+polybar|error: Failed to get contents for "module/filesystem" (err: locale::facet::_S_create_c_locale name not valid)
+polybar|error: Failed to get contents for "module/filesystem" (err: locale::facet::_S_create_c_locale name not valid)
+/home/anix/.config/bspwm/scripts/LaunchWorld: строка 12: /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1: Нет такого файла или каталога
+bash: /home/anix/.config/bspwm/bspwm_colors.sh: Нет такого файла или каталога
+/home/anix/.config/bspwm/scripts/LaunchWorld: строка 12: /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1: Нет такого файла или каталога
+bash: /home/anix/.config/bspwm/bspwm_colors.sh: Нет такого файла или каталога
+/home/anix/.config/bspwm/scripts/LaunchWorld: строка 12: /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1: Нет такого файла или каталога
+bash: /home/anix/.config/bspwm/bspwm_colors.sh: Нет такого файла или каталога
+
+(process:31247): GLib-CRITICAL **: 14:13:57.912: g_string_insert_len: assertion 'len == 0 || val != NULL' failed
+
+(process:31314): GLib-CRITICAL **: 14:14:09.462: g_string_insert_len: assertion 'len == 0 || val != NULL' failed
+
+(process:31392): GLib-CRITICAL **: 14:15:02.047: g_string_insert_len: assertion 'len == 0 || val != NULL' failed
+[ 21.11.2022 14:18:36.905 parse_config_libconfig FATAL ERROR ] Failed to read configuration file "/home/anix/.config/bspwm/rices/theme0/picom.conf".
+[ 21.11.2022 14:18:36.905 main FATAL ERROR ] Failed to create new session.
+polybar|error: Failed to query _XEMBED_INFO, removing client... (XCB_WINDOW (3))
+Couldn't spawn rule command.
+Couldn't spawn rule command.
+Couldn't spawn rule command.
+zsh:1: command not found: RiceSelector
+zsh:1: command not found: RiceSelector
+zsh:1: command not found: RiceSelector
+zsh:1: command not found: RiceSelector
+zsh:1: command not found: RiceSelector
+zsh:1: command not found: RiceSelector
+zsh:1: command not found: RiceSelector
+zsh:1: command not found: RiceSelector
+zsh:1: command not found: RiceSelector
+zsh:1: command not found: RiceSelector
+Couldn't execute the configuration file.
+zsh:1: command not found: RiceSelector
+zsh:1: command not found: RiceSelector
+zsh:1: command not found: RiceSelector
+zsh:1: command not found: RiceSelector
+zsh:1: command not found: RiceSelector
+zsh:1: command not found: RiceSelector
+zsh:1: command not found: RiceSelector
+zsh:1: command not found: RiceSelector
+zsh:1: command not found: RiceSelector
+zsh:1: command not found: RiceSelector
+zsh:1: command not found: RiceSelector
+zsh:1: command not found: RiceSelector
+zsh:1: command not found: RiceSelector
+zsh:1: command not found: RiceSelector
+zsh:1: command not found: RiceSelector
+zsh:1: command not found: RiceSelector
+zsh:1: command not found: RiceSelector
+zsh:1: command not found: RiceSelector
+zsh:1: command not found: RiceSelector
+zsh:1: command not found: RiceSelector
+zsh:1: command not found: RiceSelector
+Couldn't execute the configuration file.
+Couldn't execute the configuration file.
+Couldn't execute the configuration file.
+Couldn't execute the configuration file.
+Couldn't execute the configuration file.
+zsh:1: command not found: RiceSelector
+zsh:1: command not found: RiceSelector
+zsh:1: command not found: RiceSelector
+zsh:1: command not found: RiceSelector
+zsh:1: command not found: RiceSelector
+zsh:1: command not found: RiceSelector
+zsh:1: command not found: RiceSelector
+zsh:1: command not found: RiceSelector
+zsh:1: command not found: RiceSelector
+zsh:1: command not found: RiceSelector
+zsh:1: command not found: RiceSelector
+zsh:1: command not found: RiceSelector
+zsh:1: command not found: RiceSelector
+/home/anix/.config/bspwm/scripts/LaunchWorld: строка 12: /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1: Нет такого файла или каталога
+bash: /home/anix/.config/bspwm/bspwm_colors.sh: Нет такого файла или каталога
+polybar|error: Failed to query _XEMBED_INFO, removing client... (XCB_WINDOW (3))
